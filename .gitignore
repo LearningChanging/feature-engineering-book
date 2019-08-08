@@ -61,3 +61,4 @@ target/
 .*/
 # too big data
 data/yelp_dataset
+.DS_Store
